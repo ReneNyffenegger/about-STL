@@ -1,2 +1,2 @@
-# about-STL
-About the Standard Template Library
+
+Moved to https://github.com/ReneNyffenegger/about-cpp-standard-library
